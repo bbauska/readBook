@@ -3,16 +3,17 @@ Creating readBook.bauska.org which prints the nazi mind with regard to republica
 Contents
   - Prologue
   - Introduction
-
-  1 Spreading Conspiracy Theories
-  2 Using Them and Us
-  3 Leading as a Hero
-  4 Corrupting Youth
-  5 Conniving with the Elite
-  6 Attacking Human Rights
-  7 Exploiting Faith
-  8 Valuing Enemies
-  9 Eliminating Resistance
-  10 Escalating Racism
-  11 Killing at a Distance
-  12 Stoking Fear
+<ol type="1">
+  <li>Spreading Conspiracy Theories</li>
+  <li>Using Them and Us</li>
+  <li>Leading as a Hero</li>
+  <li>Corrupting Youth</li>
+  <li>Conniving with the Elite</li>
+  <li>Attacking Human Rights</li>
+  <li>Exploiting Faith</li>
+  <li>Valuing Enemies</li>
+  <li>Eliminating Resistance</li>
+  <li>Escalating Racism</li>
+  <li>Killing at a Distance</li>
+  <li>Stoking Fear</li>
+</ol>
