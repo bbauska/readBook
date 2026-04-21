@@ -1,5 +1,5 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 style="text-align:center;">Twelve Warnings</h2>
+<h1 style="text-align:center;">Twelve Warnings</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Everything is fragile – often a great deal more fragile than we think. That
 is the central message that I have taken from my work.1
@@ -22,7 +22,7 @@ the chapters bearing the same titles that form the rest of this book.
 I offer them in support neither of the left nor of the right, but as
 someone who values democracy over dictatorship.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-01. Spreading Conspiracy Theories
+<h2 style="text-align:center;">01. Spreading Conspiracy Theories</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 We all know that powerful figures can seek to hide the truth from us, and
 there are many examples in history where investigative journalists have
@@ -63,7 +63,7 @@ camps.
 He looked at us contemptuously. ‘And you really believe’, he said, ‘these
 pictures are true?’5
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-02. Using Them and Us</h2>
+<h2 style="text-align:center;">02 Using Them and Us</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The ability to categorize swiftly is essential to our survival. We wouldn’t
 exist if our ancestors hadn’t been able to judge in an instant whether
@@ -84,7 +84,7 @@ among their supporters, but it reinforces a sense of ‘Us-ness’ linking the
 followers to the leader, and conveys the reassuring message that no matter
 what problems you face, you can always blame ‘Them’.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Leading as a Hero
+<h2 style="text-align:center;">03. Leading as a Hero</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Theorists like Max Weber and Ernest Becker recognized how much
 personal heroism is a valuable component of leadership.6 Adolf Hitler was
@@ -112,7 +112,7 @@ better equipped to decide vital political and social questions.8 But while it
 might be emotionally attractive to abrogate responsibility, it can also be
 extremely dangerous.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Corrupting Youth
+<h2 style="text-align:center;">04. Corrupting Youth</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Targeting people under the age of twenty-five takes advantage of the
 biological fact that the frontal cortex – the part of the brain that offers
@@ -138,7 +138,7 @@ against Germany.
 ‘I never had to have a view on that,’ she said. ‘Because it wasn’t until last
 month that I heard the truth about the Nazi–Soviet pact.’
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Conniving with the Elite
+<h2 style="text-align:center;">05. Conniving with the Elite</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 It’s too often forgotten that dictators frequently do not seize control on
 their own, instead power is handed to them by others.
@@ -165,7 +165,7 @@ President Hindenburg, Cardinal Gomá y Tomás and King Victor
 Emmanuel. Three powerful members of an elite, each of whom was
 instrumental in the rise to prominence of a dictator.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Attacking Human Rights
+<h2 style="text-align:center;">06. Attacking Human Rights</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This is a common goal of all dictators. You can’t run an absolute
 dictatorship without eliminating the human rights of your population. No
@@ -196,7 +196,7 @@ nobility – could be extended into more lavish shows. The more the
 population of Rome liked what they saw, the more they thanked the
 person who paid for the entertainment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Exploiting Faith
+<h2 style="text-align:center;">07. Exploiting Faith</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hitler understood the immense power of faith. If your followers have
 complete faith in you then no amount of reasoned argument will convince
@@ -221,7 +221,7 @@ of the ‘Third Reich’ was to link the present to what were perceived as the
 past glories of the Holy Roman Empire and the Germany that Bismarck
 helped create.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Valuing Enemies
+<h2 style="text-align:center;">08. Valuing Enemies</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ‘The more enemies, the more honour,’ said General Werner von Blomberg,
 German Minister of War in the 1930s.14 It was a sentiment that his boss,
@@ -242,7 +242,7 @@ of bitter struggle finally to push back the enemy in all areas’.15
 Shrewd dictators understand that the search for enemies must be never-
 ending. And if you don’t have any enemies, then you need to create them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Eliminating Resistance
+<h2 style="text-align:center;">09. Eliminating Resistance</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 While it is commonplace for dictators to eliminate the basic human rights
 of their subjects, it can be more challenging for them to target powerful
@@ -275,7 +275,7 @@ armed units with money and other benefits or, as Stalin did, keeps them in
 a constant state of anxiety about possible denunciation.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 style="text-align: center;">Escalating Racism</h2>
+<h2 id="ch10" style="text-align: center;">10. Escalating Racism</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Feelings of ‘Them and Us’ exist in all societies, but often they aren’t fuelled
 by racism. Soldiers, for instance, always experience emotions of ‘Them and
@@ -297,7 +297,7 @@ Welsh, and you offered them a going rate, of what, a thousand [pounds] a
 week, free uniform and accommodation, I don’t think it would take you
 long to collect fifty thousand people. I’d get them together, I guarantee.’18
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Killing at a Distance
+<h2 id="ch11" style="text-align:center;">11. Killing at a Distance</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A recurring theme of this history has been the psychological problems that
 people can experience if they are told to kill someone face to face. That
@@ -329,7 +329,7 @@ What a merciless dictator will do with such resources is terrifying to
 imagine.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 style="center"Stoking Fear</h2>
+<h2 id="ch12" style="text-align:center;">12. Stoking Fear</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 While Hitler’s hatred suffuses this history, he also understood the value of
 another closely linked emotion – fear. One of the most important reasons
