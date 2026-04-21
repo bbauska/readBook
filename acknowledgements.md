@@ -658,16 +658,16 @@ Vorwärts, 26 June 1923, p. 1.
 Rudolf Höss, Commandant of Auschwitz, Phoenix, 2001, pp. 43–5.
 68
 Vossische Zeitung, Morgenausgabe, 13 March 1924, p. 4.
-69
+<a href="ch2-69" style="text-align:justify;">69</a>
 Letter by Höss to H.H., 15 June 1924, quoted in Karin Orth, Die
 Konzentrationslager-SS. Sozialstrukturelle Analysen und biographische
 Studien, Wallstein Verlag, 2000, pp. 111–13.
-70
+<a href="ch2-70" style="text-align:justify;">70</a>
 Höss, Commandant, p. 45.
-71
+<a href="ch2-71" style="text-align:justify;">71</a>
 Martin Bormann, ‘In den Kerkern der Republik: Der SA-Mann’,
 Völkischer Beobachter, 10, 17 and 24 August 1929.
-72
+<a href="ch2-72" style="text-align:justify;">72</a>
 Höss, Commandant, p. 43.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Chapter 3: Leading as a Hero
