@@ -1,5 +1,5 @@
-# readBook from The Nazi Mind
-Creating readBook.bauska.org which prints the nazi mind with regard to republicans in 2026 &amp; prior.
+# readBook of The Nazi Mind
+Creating readBook.bauska.org which prints 'The Nazi Mind' with regard to republicans in 2016 &amp; prior.
 Contents
   - Prologue
   - Introduction
