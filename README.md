@@ -1,19 +1,19 @@
-# readBook of The Nazi Mind
-Creating readBook.bauska.org which prints 'The Nazi Mind' with regard to republicans in 2016 &amp; prior.
+# readBook Template
+Creating readBook.bauska.org which prints 'book name' with regard to description of book.
 Contents
   - Prologue
   - Introduction
 <ol type="1">
-  <li>Spreading Conspiracy Theories</li>
-  <li>Using Them and Us</li>
-  <li>Leading as a Hero</li>
-  <li>Corrupting Youth</li>
-  <li>Conniving with the Elite</li>
-  <li>Attacking Human Rights</li>
-  <li>Exploiting Faith</li>
-  <li>Valuing Enemies</li>
-  <li>Eliminating Resistance</li>
-  <li>Escalating Racism</li>
-  <li>Killing at a Distance</li>
-  <li>Stoking Fear</li>
+  <li>Chapter 1 title</li>
+  <li>Chapter 2 title goes here</li>
+  <li>Chapter 3 title goes here</li>
+  <li>Chapter 4 title goes here</li>
+  <li>Chapter 5 title goes here</li>
+  <li>Chapter 6 title goes here</li>
+  <li>Chapter 7 title goes here</li>
+  <li>Chapter 8 title goes here</li>
+  <li>Chapter 9 title goes here</li>
+  <li>Chapter 10 title goes here</li>
+  <li>Chapter 11 title goes here</li>
+  <li>Chapter 12 title goes here</li>
 </ol>
